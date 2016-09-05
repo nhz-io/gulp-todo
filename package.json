@@ -1,6 +1,6 @@
 {
-  "name": "gulp-todo",
-  "version": "5.0.0",
+  "name": "@nhz.io/gulp-todo",
+  "version": "5.0.3",
   "description": "Generate a TODO.md file from comments of files in stream",
   "repository": "pgilad/gulp-todo",
   "license": "MIT",
@@ -35,7 +35,7 @@
   ],
   "dependencies": {
     "gulp-util": "^3.0.7",
-    "leasot": "^4.0.1",
+    "@nhz.io/leasot": "^4.0.4",
     "lodash.defaults": "^4.2.0",
     "lodash.omit": "^4.5.0",
     "through2": "^2.0.0"

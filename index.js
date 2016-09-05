@@ -2,7 +2,7 @@
 var path = require('path');
 var gutil = require('gulp-util');
 var through = require('through2');
-var leasot = require('leasot');
+var leasot = require('@nhz.io/leasot');
 var defaults = require('lodash.defaults');
 var omit = require('lodash.omit');
 
